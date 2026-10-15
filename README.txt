@@ -1,8 +1,8 @@
-CIS 524 — Interpreter
+CIS 524 — Tiny Language Interpreter
 
 Project Description
 
-This project implements an interpreter in Python using top-down recursive-descent parsing.
+This project implements a Tiny language interpreter in Python using top-down recursive-descent parsing.
 
 The interpreter reads a .tiny source file, checks whether the program follows the Tiny language grammar, and evaluates valid expressions.
 
